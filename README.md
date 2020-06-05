@@ -6,4 +6,5 @@ This prototype is very simple and was created back in late-2018 as proof-of-conc
 
 ## Frameworks and references
 [Google's Firebase ML Kit for OCR (annotation overlay and driver code)](https://developers.google.com/ml-kit/vision/text-recognition/android)
+
 [Camera View Wrapper for Androuid by Natario](https://natario1.github.io/CameraView/home)
